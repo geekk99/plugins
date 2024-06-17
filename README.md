@@ -1,10 +1,10 @@
-# NinjaPay Plugins - #Build your own plugins!
+# Ninjapay Plugins - #Build your own plugins!
 
-This project serves as a base structure for building plugins for NinjaPay using Node.js and TypeScript. It provides a well-organized framework that developers can use to create, extend, and integrate their own plugins.
+This project serves as a base structure for building plugins for Ninjapay using Node.js and TypeScript. It provides a well-organized framework that developers can use to create, extend, and integrate their own plugins.
 
 ## Project Structure
 
-![NinjaPay Project Structure](https://github.com/geekk99/plugins/assets/98507149/8859d9ba-7ba4-4302-a9e1-4976eeef34df)
+![Ninjapay Project Structure](https://github.com/geekk99/plugins/assets/98507149/8859d9ba-7ba4-4302-a9e1-4976eeef34df)
 
 
 - **src**: Contains the main application source code.
@@ -65,7 +65,7 @@ Follow these instructions to set up the project locally.
     DB_HOST=localhost
     DB_USER=user
     DB_PASS=password
-    DB_NAME=ninjapay
+    DB_NAME=Ninjapay
     ```
 
 5. **Run the application**:
@@ -84,7 +84,7 @@ Follow these instructions to set up the project locally.
 
 ## Contributing
 
-We welcome contributions to improve NinjaPay. Follow these steps to contribute:
+We welcome contributions to improve Ninjapay. Follow these steps to contribute:
 
 1. **Fork the repository**.
 2. **Create a new branch** (`git checkout -b feature-branch`).
@@ -104,7 +104,7 @@ If you have any questions or feedback, please open an issue or contact https://t
 
 #Keep Building #BUIDL
 
-Thank you for using NinjaPay Plugins! We hope it helps you build amazing plugins.
+Thank you for using Ninjapay Plugins! We hope it helps you build amazing plugins.
 
 
 
